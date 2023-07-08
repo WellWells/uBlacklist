@@ -594,5 +594,10 @@ title/^無題$/
 *://*.zjailbreak.com/*
 *://*.znds.com/*
 *://*.zztongyun.com/*
+*://hotel.twagoda.com/*
+*://howandbest.com/*
+*://masterweb.com.tw/*
+*://soonotes.com/*
+*://vpntaiwan.com/*
 *://www.drivereasy.com/*
 *://www.stellarinfo.com/*
