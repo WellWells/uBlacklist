@@ -1,4 +1,4 @@
-/\.(cz|si|online|pw|tk|lt|es|eu|co|ch|it|vpn|cl|pub|pl|nl|me|fr)\//
+/\.(at|cat|ch|cl|co|cz|es|eu|fr|it|lt|lv|me|nl|online|pl|pub|pw|si|tk|vpn)\//
 title/^無題$/
 *://*.000.com.tw/*
 *://*.01.cn/*
@@ -158,6 +158,7 @@ title/^無題$/
 *://*.drivereasy.com/*
 *://*.dxs96.com/*
 *://*.dyfocus.com/*
+*://*.easeus.com/*
 *://*.easyatm.com.tw/*
 *://*.easyishare.com/*
 *://*.easylife.tw/*
@@ -169,6 +170,7 @@ title/^無題$/
 *://*.elii.cn/*
 *://*.er-omsk.ru/*
 *://*.esetfans.com/*
+*://*.ethotel365.com.tw/*
 *://*.etravelist.com/*
 *://*.etsoutdoors.com/*
 *://*.europenepal.net/*
@@ -310,6 +312,7 @@ title/^無題$/
 *://*.jueshifan.com/*
 *://*.jyes.com.tw/*
 *://*.kbgewurzhaus.com/*
+*://*.kbmwnews.com/*
 *://*.keenonu.net/*
 *://*.key8.com/*
 *://*.khw1.com/*
@@ -594,10 +597,16 @@ title/^無題$/
 *://*.zjailbreak.com/*
 *://*.znds.com/*
 *://*.zztongyun.com/*
+*://appmus.com/*
 *://hotel.twagoda.com/*
 *://howandbest.com/*
 *://masterweb.com.tw/*
+*://mrmad.com.tw/*
 *://soonotes.com/*
+*://versus.com/*
 *://vpntaiwan.com/*
+*://www.diskpart.com/*
 *://www.drivereasy.com/*
+*://www.movavi.com/*
 *://www.stellarinfo.com/*
+*://www.topcpu.net/*
