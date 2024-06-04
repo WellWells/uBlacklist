@@ -1,4 +1,4 @@
-/\.(at|cat|ch|cl|co|cz|es|eu|fr|it|lt|lv|me|nl|online|pl|pub|pw|si|tk|vpn)\//
+/\.(at|cat|ch|cl|cz|es|eu|fr|it|lt|lv|nl|online|pl|pub|pw|si|tk|vpn)\//
 title/^無題$/
 @/elastic.co/
 *://newmediamax.com/*
