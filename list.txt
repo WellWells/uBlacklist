@@ -1,6 +1,5 @@
 /\.(at|cat|ch|cl|cz|es|eu|fr|it|lt|lv|nl|online|pl|pub|pw|si|tk|vpn)\//
 title/^無題$/
-@/elastic.co/
 *://newmediamax.com/*
 *://www.nmm.com.tw/*
 *://mastodon.social/*
@@ -526,7 +525,6 @@ title/^無題$/
 *://*.tierhilfe-ludwigsburg.de/*
 *://*.timetraxtech.com/*
 *://*.tiwispend.com/*
-*://*.tn.edu.tw/*
 *://*.todaybreakingnews.biz/*
 *://*.todohealth.com/*
 *://*.tomorrowsci.com/*
